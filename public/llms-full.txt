@@ -2,13 +2,13 @@
 
 משחקי קונסולה הם יקרים ? לא עוד! משחקי פלייסטיישן דיגיטליים ,זמינים 24/7 ונמסרים לדוא"ל או לווטסאפ . תמיכה מהירה התקנה פשוטה . תתחילו לחסוך כסף עכשיו !
 
-Source: https://press2play-68fa82ce.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Press2play | E-commerce
 
-URL: https://press2play-68fa82ce.zappy5.app
+URL: https://example.com
 Description: משחקי קונסולה הם יקרים ? לא עוד! משחקי פלייסטיישן דיגיטליים ,זמינים 24/7 ונמסרים לדוא&quot;ל או לווטסאפ . תמיכה מהירה התקנה פשוטה . תתחילו לחסוך כסף עכשיו !
 
 Press2play | E-commerce
@@ -310,7 +310,7 @@ Press2play
 
 ## SAROS
 
-URL: https://press2play-68fa82ce.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Press2play
 
 מוצרים - Press2play
@@ -746,7 +746,7 @@ Press2play
 
 ## עגלת קניות
 
-URL: https://press2play-68fa82ce.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Press2play
@@ -1024,7 +1024,7 @@ Press2play
 
 ## תשלום
 
-URL: https://press2play-68fa82ce.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Press2play
@@ -1488,7 +1488,7 @@ Press2play
 
 ## התחברות
 
-URL: https://press2play-68fa82ce.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Press2play
@@ -1773,7 +1773,7 @@ Press2play
 
 ## החשבון שלי
 
-URL: https://press2play-68fa82ce.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Press2play
@@ -2213,7 +2213,7 @@ Press2play
 
 ## ההזמנה התקבלה!
 
-URL: https://press2play-68fa82ce.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Press2play
@@ -2515,7 +2515,7 @@ Press2play
 
 ## מדיניות החזרות
 
-URL: https://press2play-68fa82ce.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Press2play
@@ -2846,7 +2846,7 @@ Press2play
 
 ## פרטי המוצר
 
-URL: https://press2play-68fa82ce.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Press2play
 
 פרטי המוצר - Press2play
@@ -3126,7 +3126,7 @@ Press2play
 
 ## מוצרים
 
-URL: https://press2play-68fa82ce.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Press2play
 
 מוצרים - Press2play
@@ -3430,7 +3430,7 @@ Press2play
 
 ## מדיניות פרטיות
 
-URL: https://press2play-68fa82ce.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3736,7 +3736,7 @@ Press2play
 
 ## הצהרת נגישות
 
-URL: https://press2play-68fa82ce.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4051,7 +4051,7 @@ Press2play
 
 ## תנאי שימוש
 
-URL: https://press2play-68fa82ce.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

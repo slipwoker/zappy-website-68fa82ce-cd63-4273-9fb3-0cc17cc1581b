@@ -7,53 +7,53 @@
 ## Pages
 
 ### Home
-https://press2play-68fa82ce.zappy5.app
+https://example.com
 משחקי קונסולה הם יקרים ? לא עוד! משחקי פלייסטיישן דיגיטליים ,זמינים 24/7 ונמסרים לדוא&quot;ל או לווטסאפ . תמיכה מהירה התקנה פשוטה . תתחילו לחסוך כסף עכשיו !
 
 ### Products
-https://press2play-68fa82ce.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Press2play
 
 ### Cart
-https://press2play-68fa82ce.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://press2play-68fa82ce.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://press2play-68fa82ce.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://press2play-68fa82ce.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://press2play-68fa82ce.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://press2play-68fa82ce.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Press2play
 
 ### Category
-https://press2play-68fa82ce.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Press2play
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://press2play-68fa82ce.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://press2play-68fa82ce.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://press2play-68fa82ce.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -88,8 +88,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://press2play-68fa82ce.zappy5.app/sitemap.xml
-- Robots: https://press2play-68fa82ce.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://press2play-68fa82ce.zappy5.app/llms-full.txt
-- Products (JSON): https://press2play-68fa82ce.zappy5.app/products.json
-- Products (Google Merchant RSS): https://press2play-68fa82ce.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
